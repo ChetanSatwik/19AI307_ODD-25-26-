@@ -47,8 +47,9 @@ public class Main {
 
 
 ## OUTPUT:
-
+![alt text](image.png)
 
 
 ## RESULT:
 The program successfully swaps the two input strings without using a third variable and displays the swapped strings.
+
