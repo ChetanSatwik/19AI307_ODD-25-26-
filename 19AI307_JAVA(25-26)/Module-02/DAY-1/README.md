@@ -67,7 +67,7 @@ public class Main {
 
 
 ## OUTPUT:
-
+![alt text](image.png)
 
 
 ## RESULT:
