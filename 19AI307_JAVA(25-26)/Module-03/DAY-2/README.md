@@ -97,7 +97,7 @@ public class VehicleTest {
 
 
 ## OUTPUT:
-![alt text](image.png)
+![alt text](WhatsApp Image 2026-03-13 at 4.24.59 PM.jpeg)
 
 
 ## RESULT:
