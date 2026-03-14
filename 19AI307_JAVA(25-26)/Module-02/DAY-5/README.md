@@ -65,8 +65,7 @@ class prog
 
 
 ## OUTPUT:
-
-
+![alt text](image.png)
 
 ## RESULT:
 The program reads the employee name from the user and displays it using method chaining with this reference.
