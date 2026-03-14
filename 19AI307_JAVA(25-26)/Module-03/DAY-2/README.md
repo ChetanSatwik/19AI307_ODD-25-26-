@@ -97,7 +97,7 @@ public class VehicleTest {
 
 
 ## OUTPUT:
-
+![alt text](image.png)
 
 
 ## RESULT:
