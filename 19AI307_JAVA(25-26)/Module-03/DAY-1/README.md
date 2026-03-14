@@ -124,7 +124,7 @@ public class Main {
 
 
 ## OUTPUT:
-
+![alt text](output.jpeg)
 
 
 ## RESULT:
