@@ -44,7 +44,7 @@ public class StaticVariableAccess {
 
 
 ## OUTPUT:
-
+![alt text](image.png)
 
 
 ## RESULT:
