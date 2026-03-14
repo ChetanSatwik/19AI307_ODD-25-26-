@@ -51,8 +51,7 @@ public class Area{
 
 
 ## OUTPUT:
-
-
+![alt text](image.png)
 
 ## RESULT:
 The program reads the radius from the user and displays the calculated area of the circle.
